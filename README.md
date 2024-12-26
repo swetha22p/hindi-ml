@@ -1,1 +1,1 @@
-# hindi-ml
+# lamma_model

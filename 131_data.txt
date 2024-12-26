@@ -1,0 +1,131 @@
+ROOT( जा_1 TAM( 0_रहा_है_1 ) k1( राम SEMCAT( per/male ) ) k2p( बाज़ार_1 ) )	राम बाज़ार जा रहा है।
+ROOT( पढ़_1 TAM( ता_है_1 ) k1( सीता SEMCAT( per/female ) ) k2( किताब_1 ) )	सीता किताब पढ़ती है।
+ROOT( खरीद_1 TAM( या_1 ) k1( बच्चा_1 MORPHO_SEM( pl ) SEMCAT( anim ) ) k2( किताब_1 ) )	बच्चों ने किताब खरीदी।
+ROOT( है_1 TAM( pres ) k1( दिल्ली SEMCAT( place ) ) k1s( जगह_1 mod( अच्छा_1 ) ) )	दिल्ली अच्छी जगह है।
+ROOT( है_1 TAM( pres ) k1( संयुक्त+राष्ट्र SEMCAT( org ) ) k1s( संगठन_1 quant( एक_2 ) ) )	संयुक्त राष्ट्र एक संगठन है।
+ROOT( है_1 TAM( pres ) k1( $wyax sp_view( proximal ) ) k1s( [6-waw_1] mod( ^फ़ोरेस्त्_1 SEMCAT( fw ) ) head( ^प्रिन्चिप्ले_1 SEMCAT( fw ) ) ) )	यह forest principle है।
+ROOT( आ_1 TAM( गा_1 ) k1( राम SEMCAT( per/male ) ) k7t( [calender_1] component_of( 10 SEMCAT( dom ) ) component_of( अगस्त_1 SEMCAT( moy ) ) ) )	राम 10th अगस्त को आयेगा।
+ROOT( आ_1 TAM( गा_1 ) k1( राम SEMCAT( per/male ) ) k7t( [calender_1] component_of( 10 SEMCAT( dom ) ) component_of( अगस्त_1 SEMCAT( moy ) ) ) )	राम 10th अगस्त को आयेगा।
+ROOT( जा_1 TAM( गा_1 ) k1( $speaker SEMCAT( anim/female ) ) k7t( [calender_1] component_of( 2025 SEMCAT( yoc ) ) ) )	मैं 2025 को जाउंगी।
+ROOT( [cp_1] k7t( 1500 SEMCAT( era ) ) k1( ईसा SEMCAT( per/female ) ) kriyAmula( जन्म_1 ) verbalizer( हो_1 TAM( या_था_1 ) ) )	15वीं सदी में ईसा का जन्म हुआ था।
+ROOT( खा_1 TAM( या_1 ) k1( $speaker SEMCAT( anim/male ) ) k2( सेब_1 card( 1 SEMCAT( numex ) ) ) )	मैंने एक सेब खाया
+ROOT( खा_1 TAM( या_1 ) k1( $speaker MORPHO_SEM( pl ) ) k2( सेब_1 ) )	हमने सेब खाया
+ROOT( रह_1 TAM( ता_है_1 ) )	तू कहाँ रहता है?
+ROOT( रह_1 TAM( ता_है_1 ) )	तुम कहाँ रहते हो?
+ROOT( रह_1 TAM( ता_है_1 ) )	आप कहाँ रहते हैं?
+ROOT( जा_1 TAM( 0_रहा_है_1 ) )	वह घर जा रहा है
+ROOT( जा_1 TAM( 0_रहा_है_1 ) )	वे घर जा रहे हैं
+ROOT( है_1 TAM( pres ) k7t( 5 SEMCAT( dom ) ) k1( जन्मदिन_1 r6( $speaker ) ) )	5 तारीख को मेरा जन्मदिन है|
+ROOT( उठ_1 TAM( ता_है_1 ) k1( $wyax sp_view( distal ) ) k7t( 6 SEMCAT( clocktime ) mod( subaha ) ) )	वह सुबह 6 बजे उठता  है |
+ROOT( जा_1 TAM( गा_1 ) k1( $speaker ) rt( घूम_1 k7( मौसम_1 r6( सर्दी_1 SEMCAT( season ) ) ) ) )	मैं सर्दी के मौसम में घूमने जाऊँगा | |
+ROOT( मना_1 TAM( या_गया_1 ) k7t( कल_1 ) k1( स्वतंत्रता+दिवस SEMCAT( timex ) ) )	कल स्वतंत्रता दिवस मनाया गया |
+ROOT( है_1 TAM( pres ) rsm( $speaker ) k1( किताब_1 MORPHO_SEM( pl ) card( 3 SEMCAT( numex ) ) ) )	मेरे पास 3 किताबें हैं |
+ROOT( खा_1 TAM( ता_है_1 ) k1( राम SEMCAT( per/male ) ) k2( आम_1 ) )	राम आम खाता है।
+ROOT( खरीद_1 TAM( या_1 ) k1( मोहन SEMCAT( per/male ) ) k2( आम_1 MORPHO_SEM( pl ) ) )	मोहन ने आम खरीदे।
+ROOT( खाट_1 TAM( या_1 ) k1( मोहन SEMCAT( per/male ) ) k2( आम_1 ) k3( चाकू_1 ) )	मोहन ने आम चाकू से काटा।
+ROOT( दे_1 TAM( या_1 ) k1( भाई_1 SEMCAT( anim/male ) ) k4( बहन_1 SEMCAT( anim/female ) ) k7t( रक्षाबंधन SEMCAT( timex ) ) k2( बिल्ली_1 SEMCAT( anim ) quant( एक_1 ) ) )	भाई ने बहन को रक्षाबंधन पर एक बिल्ली दी।
+ROOT( गिर_1 TAM( या_1 ) k5( पेड़_1 ) k2( पत्ता_1 quant( एक_1 ) ) )	पेड़ से एक पत्ता गिरा।
+ROOT( है_1 TAM( pres ) k1( राम SEMCAT( per/male ) rv( मोहन SEMCAT( per/male ) ) ) k1s( बुद्धिमान_1 MORPHO_SEM( comperless ) ) )	राम मोहन से कम बुद्धिमान है।
+ROOT( है_1 TAM( pres ) k1( डायमन्ड SEMCAT( ne ) ) k1s( महँगा_1 mod( अधिक_1 MORPHO_SEM( superl ) ) ) )	डायमन्ड सबसे अधिक महँगा है।
+ROOT( है_1 TAM( past ) k7p( घर_1 MORPHO_SEM( dviwva ) ) k1( तिरंगा_1 ) k7t( [calender_1] component_of( 15 SEMCAT( dom ) ) component_of( अगस्त_1 SEMCAT( moy ) ) ) )	15 अगस्त को घर-घर में तिरंगा था।
+ROOT( खा_1 TAM( या_1 ) MORPHO_SEM( causative ) pk1( माँ_1 SEMCAT( anim/female ) ) jk1( बच्चा_1 SEMCAT( anim/male ) ) k2( खाना_1 ) )	माँ ने बच्चे को खाना खिलाया।
+ROOT( खा_1 TAM( या_1 ) MORPHO_SEM( doublecausative ) pk1( माँ_1 SEMCAT( anim/female ) ) mk1( राम SEMCAT( per/male ) ) jk1( बच्चा_1 SEMCAT( anim ) ) k2( खाना_1 ) )	माँ ने राम से बच्चे को खाना खिलावाया।
+ROOT( [cp_1] k1( राम SEMCAT( per/male ) ) k7( राजनीति_1 ) kriyAmUla( चर्चा_1 ) verbalizer( कर_1 TAM( 0_रहा_था_1 ) ) )	राम राजनीति पर चर्चा कर रहा था।
+ROOT( आ_1 TAM( गा_1 ) k1( राम SEMCAT( per/male ) ) k7t( शाम_1 ) )	राम शाम में आएगा।
+ROOT( है_1 TAM( pres ) k7p( मेज़_1 ) k1( किताब_1 ) )	मेज़ पर किताब है।
+ROOT( है_1 TAM( pres ) k4a( राम SEMCAT( per/male ) ) k1( आम_1 ) k1s( पसंद_1 ) )	राम को आम पसंद है।
+ROOT( आ_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) k2p( घर_1 ) )	राम घर आया।
+ROOT( बन_1 TAM( ता_है_1 ) k1( दही_1 ) k5prk( दूध_1 ) )	दही दूध से बनता है।
+ROOT( खा_1 TAM( या_1 ) MORPHO_SEM( causative ) pk1( माँ_1 SEMCAT( anim/female ) ) jk1( बच्चा_1 SEMCAT( anim/male ) ) k2( खाना_1 ) )	माँ ने बच्चे को खाना खिलाया।
+ROOT( खा_1 TAM( या_1 ) MORPHO_SEM( doublecausative ) pk1( माँ_1 SEMCAT( anim/female ) ) jk1( बच्चा_ SEMCAT( anim/male ) ) k2( खाना_1 ) )	माँ ने बच्चे को खाना खिलवाया।
+ROOT( खा_1 TAM( या_1 ) MORPHO_SEM( doublecausative ) pk1( माँ_1 SEMCAT( anim/female ) ) jk1( बच्चा_ SEMCAT( anim/male ) ) mk1( आया_1 SEMCAT( anim/female ) ) k2( खाना_1 ) )	माँ ने बच्चे को आया से खाना खिलवाया।
+ROOT( है_1 TAM( pres ) k7a( राम SEMCAT( per/male ) ) k1( सीता SEMCAT( per/female ) ) k7p( घर_1 ) neg( नहीं_1 ) )	राम के अनुसार सीता घर पर नहीं है।
+ROOT( जा_1 TAM( या_1 ) rask1( राम SEMCAT( per/male ) ) k1( मोहन SEMCAT( per/male ) ) k2p( बाजार_1 ) )	राम के साथ मोहन बाजार गया।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rask2( दूध_1 ) k2( केला_1 ) )	राम ने दूध के साथ केला खाया।
+ROOT( खा_1 TAM( 0_रहा_है_1 ) k1( राम SEMCAT( per/male ) ) rask3( चम्मच_1 ) k3( काँटा_1 ) k2( सब्जी_1 ) )	राम चम्मच के साथ काँटे से सब्जी खा रहा है।
+ROOT( दे_1 TAM( ता_है_1 ) k1( राम SEMCAT( per/male ) ) rask4( गुरु_1 ) k4( शिष्य_1 MORPHO_SEM( pl ) ) k2( दक्षिणा_1 ) )	राम गुरु के साथ शिष्यों को दक्षिणा देता है।
+ROOT( आ_1 TAM( 0_रहा_है_1 ) rask5( बालकनी_1 ) k5( खिड़की_1 MORPHO_SEM( pl ) sp_view( भी ) ) k1( धूल_1 ) )	बालकनी के साथ खिड़कियों से भी धूल आ रही है।
+ROOT( लिख_1 TAM( या_है_1 ) k1( राम SEMCAT( per/male ) ) rask7( मुद्दा_1 MORPHO_SEM( pl ) mod( राजनैतिक_1 ) ) k7( विषय_1 MORPHO_SEM( pl ) mod( अन्य_1 ) ) k2( किताब_1 MORPHO_SEM( pl ) ) )	राम ने राजनैतिक मुद्दों सहित अन्य विषयों पर किताबें लिखी हैं।
+ROOT( है_1 TAM( pres ) k1( राम SEMCAT( per/male ) ) k1s( बुद्धिमान_1 ) )	राम बुद्धिमान है।
+ROOT( सो_1 TAM( ता_है_1 ) k1( बिल्ली_1 SEMCAT( anim ) mod( सफेद_1 ) ) k7p( मेज़_1 ) )	सफेद  बिल्ली मेज़ पर सोती है।
+ROOT( कह_1 TAM( ता_है_1 ) k2( मण्डल_2 dem( $wyax sp_view( proximal ) ) ) k2s( क्षोभमण्डल_1 sp_view( भी ) ) )	इस         मण्डल         को क्षोभमण्डल        भी        कहते        हैं।
+ROOT( है_1 TAM( pres ) k1( ढाल_1 rbks( बन_1 k7p( [6-waw_1] mod( समुद्र_1 ) head( तल_1 ) ) ) ) )	समुद्र तल में बनी हुई ढाल हैं।
+ROOT( देख_1 TAM( या_1 ) k1( $speaker SEMCAT( anim/female ) ) k2( चिड़िया_1 SEMCAT( anim ) rvks( उड़_1 ) mod( सुंदर_1 ) ) )	मैंने उड़ती हुए सुंदर चिड़िया देखी।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rblsk( पढ़_1 k2( किताब_1 sp_view( def ) ) ) k2( खाना_1 ) )	राम ने किताब पढ़ते समय खाना खाया।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rblak( पढ़_1 k2( किताब_1 sp_view( def ) ) ) k2( खाना_1 ) )	राम ने किताब पढ़ने के बाद खाना खाया।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rblpk( पढ_1 k2( किताब_1 sp_view( def ) ) ) k2( खाना_1 ) )	राम ने किताब पढ़ने से पहले खाना खाया।
+ROOT( पी_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rpk( खा_1 k2( खाना_1 ) ) k2( पानी_1 ) )	राम ने खाना खाकर पानी पिया।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rsk( पढ_1 k2( किताब_1 sp_view( def ) ) ) k2( खाना_1 ) )	राम ने किताब पढ़ते हुए खाना खाया।
+ROOT( है_1 TAM( pres ) k1( चंद्रमा_1 sp_view( def ) ) k7p( उपर_1 rdl( पेड़_1 sp_view( def ) ) ) )	चंद्रमा पेड़ के ऊपर है।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) k7t( पहले_1 rkl( 7 SEMCAT( clocktime ) ) ) k2( खाना_1 ) )	राम 7 बजे से पहले खाना खाया।
+ROOT( ला_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rt( मोहना SEMCAT( per/female ) ) k2( सेब_1 ) )	राम ने मोहना के लिए सेब लाया।
+ROOT( आ_1 TAM( ना_पड़ा_1 ) rh( मोहन SEMCAT( per/male ) ) k1( राम SEMCAT( per/male ) ) )	मोहन के कारण राम को आना पड़ा।
+ROOT( [cp_1] k2( वस्तु_1 MORPHO_SEM( pl ) quant( कुछ_1 ) re( [conj_1] op1( पर्वत_1 ) op2( नदि_1 MORPHO_SEM( pl ) ) op3( प्राणी_1 ) ) ) k1( प्रकृति_1 ) kriyAmUla( निर्माण_1 ) verbalizer( कर_1 TAM( या_है_1 ) ) )	कुछ वस्तुओं का निर्माण प्रकृति ने किया है जैसे पर्वत, नदियां, प्राणी
+ROOT( बता_1 TAM( ओ_2 ) k1( $addressee MORPHO_SEM( pl ) SEMCAT( anim/female ) sp_view( respect ) ) k2( महत्व_1 r6( ओजोन_1 rs( गैस_1 ) ) ) )	आप ओजोन गैस         का        महत्व        बताइए।
+ROOT( है_1 TAM( pres ) k1( घर_1 r6( राम SEMCAT( per/male ) ) ) k1s( सुंदर_1 ) )	राम का घर सुंदर है।
+ROOT( है_1 TAM( pres ) k1( किताब_1 rsm( राम SEMCAT( per/male ) ) ) )	राम के पास किताब है।
+ROOT( है_1 TAM( pres ) )	राम के पास सीता की किताब है।
+ROOT( है_1 TAM( pres ) k1( बेटा_1 MORPHO_SEM( pl ) rhh( राम SEMCAT( per/male ) ) card( 2 SEMCAT( numex ) ) ) )	राम के दो बेटे हैं।
+ROOT( उग_1 TAM( ता_है_1 ) k1( फूल_1 MORPHO_SEM( pl ) ru( गुलाब_1 ) ) k7( पानी_1 ) neg( नहीं_1 ) )	गुलाब जैसे फूल पानी में नहीं उगते है।
+ROOT( है_1 TAM( pres ) k1( राधा SEMCAT( per/female ) rv( मीरा SEMCAT( per/female ) ) ) k1s( सुंदर_1 intf( अधिक_1 ) ) )	राधा मीरा की तुलना में अधिक सुंदर है।
+ROOT( जा_1 TAM( 0_रहा_था_1 ) k1( राम SEMCAT( per/male ) ) rd( गाँव_1 ) )	राम गाँव की ओर जा रहा था।
+ROOT( चल_1 TAM( ता_है_1 ) k1( राम SEMCAT( per/male ) ) krvn( धीरे_1 ) )	राम धीरे चलता है।
+ROOT( जा_1 TAM( ता_है_1 ) k1( राम SEMCAT( per/male ) ) neg( नहीं_1 ) )	राम नहीं जाता है।
+ROOT( आ_1 TAM( गा_1 ) k1( राम SEMCAT( per/male ) ) vkvn( शायद_1 ) neg( नहीं_1 ) )	राम शायद नहीं आएगा।
+ROOT( आ_1 TAM( ता_है_1 ) k1( $wyax sp_view( distal ) ) freq( हमेशा_1 ) k7p( $wyax sp_view( proximal ) ) )	वह हमेशा यहाँ आता है।
+ROOT( है_1 TAM( pres ) rasneg( जल_1 ) k1( जीवन_1 ) k1s( असम्भव_1 ) )	जल के बिना जीवन असम्भव है।
+ROOT( गुजर_1 TAM( ता_है_1 ) k1( कर्क+रेखा SEMCAT( ne ) ) rp( महाद्वीप_1 dem( $wyax sp_view( proximal ) ) ) )	कर्क रेखा इस महाद्वीप से होकर गुजरती है।
+ROOT( है_1 TAM( pres ) k1( सोना_1 ) k1s( महंगा_1 mod( अधिक_1 MORPHO_SEM( superl ) ) ) )	सोना सबसे अधिक महंगा है।
+ROOT( दे_1 TAM( ता_है_1 ) k1( गाय_1 SEMCAT( anim ) rn( गाय_1 MORPHO_SEM( pl ) SEMCAT( anim ) ) mod( काला_1 ) ) k2( दूध_1 mod( ज्यादा_1 MORPHO_SEM( superl ) ) ) )	गायों में काली गाय सबसे ज्यादा दूध देती है।
+ROOT( कर_1 TAM( ओ_1 ) )	हे ईश्वर आप हमारी रक्षा करो।
+ROOT( है_1 TAM( pres ) k1( किताब_1 dem( $wyax sp_view( proximal ) ) ) k1s( लाल_1 ) )	यह किताब लाल है।
+ROOT( है_1 TAM( pres ) k1( कलम_1 rsm( राम SEMCAT( per/male ) ) card( 2 SEMCAT( numex ) ) ) )	राम के पास दो कलम है।
+ROOT( है_1 TAM( pres ) k1( राम SEMCAT( per/male ) ) k1s( पुत्र_1 rhh( दशरथ SEMCAT( per/male ) ) ord( प्रथम_1 ) ) )	राम दशरथ के प्रथम पुत्र हैं।
+ROOT( आ_1 TAM( गा_1 ) k1( लड़का_1 MORPHO_SEM( pl ) quant( सब_1 ) ) )	सब लड़के आएंगे।
+ROOT( है_1 TAM( pres ) k1( राम SEMCAT( per/male ) ) k1s( मोटा_1 intf( बहुत_1 ) ) )	राम  बहुत मोटा है।
+ROOT( है_1 TAM( pres ) k1( किताब_1 MORPHO_SEM( pl ) rsm( $speaker ) quantmore( 10 SEMCAT( numex ) ) ) )	मेरे पास दस से अधिक किताबें हैं।
+ROOT( है_1 TAM( pres ) k1( कलम_1 MORPHO_SEM( pl ) rsm( राम SEMCAT( per/male ) ) quantless( 5 SEMCAT( numex ) ) ) )	राम के पास पाँच से कम कलमें हैं।
+ROOT( [cp_1] k1( हिंद SEMCAT( ne ) rs( महासागर_1 ) rcelab( मिला_1 TAM( ता_है_1 ) k1( $yax ) k2( [conj_1] op1( देश_1 MORPHO_SEM( pl ) mod( यूरोपीय_1 ) ) op2( देश_1 MORPHO_SEM( pl ) mod( एशियाई_1 ) ) ) ) ) k4( भारत SEMCAT( ne ) ) k2( स्तिति_1 mod( केंद्रीय_1 ) ) kriyAmUla( प्रदान_1 ) verbalizer( कर_1 TAM( ता_है_1 ) ) )	हिंद महासागर जो यूरोपीय देशों और एशियाई देशों को मिलाता है, भारत को केंद्रीय स्थिति प्रदान करता है।
+ROOT( है_1 TAM( pres ) k1( राम SEMCAT( per/male ) rcdelim( कर_1 TAM( ता_है_1 ) k1( $yax ) k2( मेहनत_1 mod( ज्यादा_1 ) ) ) ) k1s( लड़का_1 SEMCAT( anim/male ) quant( एक_2 ) r6( प्रकार_1 dem( $wyax sp_view( proximal ) ) ) ) )	राम एक ऐसा लड़का है जो ज्यादा मेहनत करता है।
+ROOT( हो_1 TAM( 0_रहा_था_1 ) k7t( $wyax rcsamAnakAla( सो_1 TAM( 0_रहा_था_1 ) k7t( $wyax ) k1( राम SEMCAT( per/male ) ) ) ) k1( बारीश_1 ) )	जब राम  सो रहा था तब बारिश हो रही थी।
+ROOT( रह_1 TAM( ता_है_1 ) k1( राम SEMCAT( per/male ) ) k7p( $wyax sp_view( distal ) rcloc( पड़_1 TAM( ता_है_1 ) k7p( $yax ) k1( बर्फ_1 ) ) ) )	राम  वहाँ रहता है जहाँ बर्फ पड़ती है।
+ROOT( है_1 TAM( pres ) k1( राम SEMCAT( per/male ) rcdelim( कर_1 TAM( ता_है_1 ) k1( $yax ) k2( मेहनत_1 mod( ज्यादा_1 ) ) ) ) k1s( लड़का_1 SEMCAT( anim/male ) quant( एक_2 ) r6( प्रकार_1 dem( $wyax sp_view( proximal ) ) ) ) )	राम एक ऐसा लड़का है जो ज्यादा मेहनत करता है।
+ROOT( जोड़_1 TAM( ओ_1 ) k1( $addressee SEMCAT( anim/male ) ) k2( फूल_1 ) k2as( डालि_1 ) )	तुम फूल को डाली के साथ  जोडो
+ROOT( चल_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) extent( [dist_meas_1] count( 10 ) unit( किलोमीटर_1 ) ) )	राम 10 किलोमीटर चला
+ROOT( चल_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) dur( [time_meas_1] count( 10 ) unit( घंटा_1 ) ) )	राम 10 घंटे चला
+ROOT( चल_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) quant( [mass_meas_1] count( 10 ) unit( किलोग्राम_1 ) ) k2( आलु_1 ) )	राम ने 10 किलो आलू खरीदे
+ROOT( कर_1 TAM( ओ_1 ) )	आप हमारी रक्षा करो।
+ROOT( हो_1 TAM( ता_है_1 ) k7p( पृथ्वी_1 ) k1( [conj_1] r6( [6-waw_1] head( जगत_1 ) ) op1( उत्पत्ति_1 ) op2( विकास_1 ) ) )	पृथ्वी        पर        जीव-जगत        की        उत्पत्ति        एवं        विकास        होता        है।
+ROOT( कह_1 TAM( ता_है_1 ) k2( मण्डल_2 dem( $wyax sp_view( proximal ) ) ) k2s( [disjunct_1] op1( [6-waw_1] mod( परिवर्तन_1 ) ) op2( क्षोभमण्डल_1 sp_view( भी ) ) ) )	इस        मण्डल        को        परिवर्तन        मण्डल        या        क्षोभमण्डल        भी        कहते        हैं।
+ROOT( आ_1 TAM( गा_1 ) k1( राम SEMCAT( per/male ) ) k7t( [calender_1] component_of( 10 SEMCAT( dom ) ) component_of( अगस्त_1 SEMCAT( moy ) ) ) )	राम 10th अगस्त को आयेगा।
+ROOT( है_1 TAM( pres ) k1( भूकम्प_1 rbks( आ_1 k7t( 1906 SEMCAT( yoc ) ) k7p( [spatial_1] whole( कैलीफोर्निया SEMCAT( place ) ) part( सान+फ्रांसिसको SEMCAT( place ) ) ) ) ) k1s( उदाहरण_1 mod( उपयुक्त_1 r6( भूकम्प_1 MORPHO_SEM( pl ) r6( प्रकार_1 dem( $wyax sp_view( proximal ) ) ) ) ) ) )	कैलीफोर्निया के सान फ्रांसिसको में 1906 में आये भूकम्प इस प्रकार के भूकम्पों के उपयुक्त उदाहरण हैं।
+ROOT( पा_13 TAM( या_जाता_है_1 ) k2( मात्रा_1 r6( जलवाष्प_1 ) mod( अधिक_1 MORPHO_SEM( superl ) op1( उष्ण_1 ) op2( आर्द्र_1 ) ) ) k7p( क्षेत्र_4 MORPHO_SEM( pl ) ) )	जलवाष्प        की        सबसे        अधिक        मात्रा        उष्ण-आर्द्र        क्षेत्रों        में        पाई        जाती        है।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) k2( आम_1 ) )	राम आम खा लिया
+ROOT( रह_1 TAM( ता_है_1 ) )	तू कहाँ रहता है?
+ROOT( रह_1 TAM( ता_है_1 ) )	आप कहाँ रहते हैं?
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) sp_view( respect ) ) k2( आम_1 ) )	मोहन जी आम खा लिया
+ROOT( आ_1 TAM( ता_है_1 ) k1( $wyax sp_view( distal ) ) freq( हमेशा_1 ) k7p( $wyax sp_view( proximal ) ) )	वह हमेशा यहाँ आता है।
+ROOT( आ_1 TAM( ता_है_1 ) k1( $wyax sp_view( distal ) ) freq( हमेशा_1 ) k7p( $wyax sp_view( proximal ) ) )	वह हमेशा यहाँ आता है।
+ROOT( खा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) rsk( पढ_1 k2( किताब_1 sp_view( def ) ) ) k2( खाना_1 ) )	राम ने किताब पढ़ते हुए खाना खाया।
+ROOT( चल_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) extent( [dist_meas_1] count( 10 ) unit( किलोमीटर_1 ) ) )	राम लगभग 10 किलोमीटर चला
+ROOT( आ_1 TAM( गा_1 ) )	केवल राम आएगा
+ROOT( आ_1 TAM( या_1 ) k1( लोग_1 MORPHO_SEM( pl ) SEMCAT( anim ) card( 10 SEMCAT( numex ) ) ) )	करीब10 लोग आये
+ROOT( आ_1 TAM( या_1 ) k1( लोग_1 MORPHO_SEM( pl ) SEMCAT( anim ) card( 10 SEMCAT( numex ) ) ) )	ठीक10 लोग आये
+ROOT( आ_1 TAM( या_1 ) k1( लोग_1 MORPHO_SEM( pl ) SEMCAT( anim ) card( 10 SEMCAT( numex ) ) ) )	मात्र10 लोग आये
+ROOT( आ_1 TAM( या_1 ) k1( लोग_1 MORPHO_SEM( pl ) SEMCAT( anim ) card( 10 SEMCAT( numex ) ) ) )	बस10 लोग आये
+ROOT( आ_1 TAM( या_1 ) k1( लोग_1 MORPHO_SEM( pl ) SEMCAT( anim ) card( 10 SEMCAT( numex ) ) ) )	सिरफ10 लोग आये
+ROOT( आ_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) ) neg( नहीं_1 ) )	राम तक नहीं आये
+ROOT( जा_1 TAM( या_1 ) k1( राम SEMCAT( per/male ) sp_view( तो ) ) k2p( घर_1 ) )	राम तो घर गया ।
+ROOT( [cp_1] k1( प्रजाति_1 MORPHO_SEM( pl ) intf( बहुत_1 ) ) kriyAmUla( समाप्त_1 ) verbalizer( हो_1 TAM( 0_चुका_है_1 ) ) )	बहुत सी प्रजातियाँ समाप्त हो चुकी हैं।
+ROOT( [cp_1] k1( हिंद SEMCAT( ne ) rs( महासागर_1 ) rcelab( मिला_1 TAM( ता_है_1 ) k1( $yax ) k2( [conj_1] op1( देश_1 MORPHO_SEM( pl ) mod( यूरोपीय_1 ) ) op2( देश_1 MORPHO_SEM( pl ) mod( एशियाई_1 ) ) ) ) ) k4( भारत SEMCAT( ne ) ) k2( स्थिति_1 mod( केंद्रीय_1 ) ) kriyAmUla( प्रदान_1 ) verbalizer( कर_1 TAM( ता_है_1 ) ) )	हिंद महासागर जो कि यूरोपीय देशों और एशियाई देशों को मिलाता है, भारत को केंद्रीय स्थिति प्रदान करता है।
+ROOT( जा_1 TAM( 0_रहा_है_1 ) k1( राम SEMCAT( per/male ) sp_view( भी ) ) k2p( बाज़ार_1 ) )	राम भी बाज़ार जा रहा है।
+ROOT( जा_1 TAM( 0_रहा_है_1 ) k1( राम SEMCAT( per/male ) sp_view( भी ) ) k2p( बाज़ार_1 ) )	राम भी बाज़ार जा रहा है।
+ROOT( जा_1 TAM( या_1 ) k1( लड़का_1 SEMCAT( anim/male ) quant( कोई_1 sp_view( भी ) ) ) k2p( बाज़ार_1 ) neg( नहीं_1 ) )	कोई भी लड़का बाज़ार  नहीं गया ।
+ROOT( जा_1 TAM( या_1 ) k7t( अभी_1 sp_view( भी ) ) k1( राम SEMCAT( per/male ) ) k2p( बाज़ार_1 ) neg( नहीं_1 ) )	अभी भी राम बाज़ार नहीं गया ।
+ROOT( जा_1 TAM( गा_1 ) k1( राम SEMCAT( per/male ) sp_view( ही ) ) k2p( बाज़ार_1 ) )	राम ही बाज़ार जायेगा ।
+ROOT( जा_1 TAM( या_1 ) )	कुछ ही लड़के बाज़ार  गये ।
+ROOT( जा_1 TAM( गा_1 ) k7t( आज_1 sp_view( ही ) ) k1( राम SEMCAT( per/male ) ) k2p( स्कूल_1 ) )	आज ही  राम स्कूल जायेगा ।
+ROOT( है_1 TAM( pres ) k1( भाग_1 r6( मात्रा_1 r6( भार_1 r6( वायुमण्डल_1 ) mod( कुल_1 ) ) ) rn( भाग_1 card( 100 SEMCAT( numex ) ) ) card( 97 SEMCAT( numex ) ) ) k7p( ऊँचाई_1 extent( [height_meas_1] count( 30 SEMCAT( numex ) ) unit( किलोमीटर_1 ) ) ) k1s( सीमित_1 ) )	वायुमण्डल        के        कुल        भार        की        मात्रा        का        97        प्रतिशत        भाग    लगभग         30        कि.मी.        की        ऊँचाई        तक        सीमित        है।
+ROOT( है_1 TAM( pres ) k1( मोटाई_1 r6( $wyax sp_view( proximal ) ) mod( औसतन_1 ) ) k1s( [width_meas_1] count( 40 SEMCAT( numex ) ) unit( किलोमीटर_1 ) ) )	इसकी        औसतन        मोटाई        लगभग        40        कि.मी.        है।
+ROOT( चल_1 TAM( या_1 ) k1( काल_2 dem( $wyax sp_view( proximal ) ) ) k7t( [span_1] start( मध्य_1 rkl( सदी_1 SEMCAT( era ) ord( 15 SEMCAT( numex ) ) ) ) end( पूर्व_1 rkl( सदी_1 SEMCAT( era ) ) ) ) )	यह काल 15 वीं सदी के मध्य से शुरू होकर 18 वीं सदी के पूर्व तक चला ।
+ROOT( [cp_1] k7p( [spatial_1] whole( मण्डल_1 dem( $wyax sp_view( proximal ) ) ) part( वायु_1 ) ) k1( तरंग_1 MORPHO_SEM( pl ) mod( [compound_1] mod( विद्युत_1 ) head( आवेशित_1 ) ) ) kriyAmUla( प्रवाहित_1 ) verbalizer( हो_1 TAM( ता_है_1 ) ) )	इस        मण्डल        में        वायु        में        विद्युत        आवेशित        तरंगें        प्रवाहित        होती        हैं
